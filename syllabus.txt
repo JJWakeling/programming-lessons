@@ -1,5 +1,6 @@
 Using Python3
 * The print() function
+n.b. after seeing eg1, Rachel wanted to go straight to a program with conditional branching, so maybe rearrange syllabus to accommodate that
 Demonstrate that programs are just text files - use notepad
 Then go on to use IDEA or notepad++: they're about as lightweight as IDEs come
 Say that reason we're using Python is that it's design means that you can jump to getting results without having to fit in to a paradigm that's more complicated than the job requires.
@@ -15,6 +16,7 @@ https://docs.python.org/3/library/stdtypes.html
 This might be a good point to introduce online docs if they have a good page on format printing
 https://docs.python.org/3/tutorial/inputoutput.html
 * Operators
+n.b. boolean operators are very unintuitive to a novice programmer, so leave them out
 (I've used just strings, numbers and bools in last chapter, so stick with those here)
 https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
 Seems a fairly comprehensive list of operators 
