@@ -1,0 +1,49 @@
+Using Python3
+* The print() function
+Demonstrate that programs are just text files - use notepad
+Then go on to use IDEA or notepad++: they're about as lightweight as IDEs come
+Say that reason we're using Python is that it's design means that you can jump to getting results without having to fit in to a paradigm that's more complicated than the job requires.
+Other languages have that, but I can only think of ones that are weird(Lisp) or rarely used(BASIC)
+Explain that print is a function, but you will not be explaining those for a while
+Maybe mention that in Python2, print is a statement so you've made clear there's a difference
+* Comments
+Needn't mention string comments here
+* Variables
+* Passing different types to print() and format strings
+Only indication here that they are different types is quotes around string. Implications of different types will be shown in next section
+https://docs.python.org/3/library/stdtypes.html
+This might be a good point to introduce online docs if they have a good page on format printing
+https://docs.python.org/3/tutorial/inputoutput.html
+* Operators
+(I've used just strings, numbers and bools in last chapter, so stick with those here)
+https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
+Seems a fairly comprehensive list of operators 
+* Using the interpreter
+Try out operators from last exercise and some more in the interpreter
+* If, elif and else
+* Input function
+https://docs.python.org/3/library/functions.html#input
+* While loop
+From this point on slow down and do more interesting examples 
+* Defining and using Functions
+* Complex data types(lists, arrays, tuples, dictionaries, sets)
+* For loop
+N.b. python only has what other languages call 'foreach' loop, no true for loop
+As an exercise, go back over past examples and exercises and move duplicated code to functions 
+* Importing libraries
+Maybe use Math or Numpy
+Link to the online docs here again
+* Linkage
+* Docstrings
+* Testing
+At this point, I think you've covered all the main non-object oriented concepts.
+Spend a while making interesting and fun programs before covering OOP, or maybe just move on to that when it naturally comes up.
+Move towards good procedural-style code: write modules as if they were C files, with a small number of related functions which share data.
+Listen to Rachel's aims to decide where to go from here.
+Since at this point, you're emulating C, you could give a crash course in C at this point, if Rachel seems interested in how the computer works at a lower level. If she's more interested in writing useful programs, jump to OOP in Python and then introduce Java(or C#, but that has the disadvantage of Microsoft's crazy linkage)
+* Any common non-OOP Python keywords you've missed?
+https://docs.python.org/3/reference/lexical_analysis.html#keywords
+https://docs.python.org/3/library/functions.html
+* Classes and methods
+At this point, make it clear that OOP is a separate paradigm by enforcing that everything is done in classes, with the one exception being the entry point
+Then you could explain exceptions or inheritance, but perhaps going through that in Python is not a great idea, since Python is not well designed for OOP.

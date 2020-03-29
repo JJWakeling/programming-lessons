@@ -1,0 +1,4 @@
+1. hello, world - make it print a different phrase of your choice
+2. Variables - ditto, but using a variable
+3. Types - no exercises
+4. Operators - do a calculation; try combining different types and see how it breaks
