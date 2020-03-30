@@ -27,11 +27,14 @@ Try out operators from last exercise and some more in the interpreter
 https://docs.python.org/3/library/functions.html#input
 * While loop
 From this point on slow down and do more interesting examples 
+If student doesn't have ideas of their own, look in your own backlog of mini projects
 * Defining and using Functions
+As an exercise, go back over past examples and exercises and move duplicated code to functions
 * Complex data types(lists, arrays, tuples, dictionaries, sets)
+with arrays/dictionaries, could demonstrate referencing members via square brackets syntax
+could also lead into for loop by doing the same thing with while and indices
 * For loop
 N.b. python only has what other languages call 'foreach' loop, no true for loop
-As an exercise, go back over past examples and exercises and move duplicated code to functions 
 * Importing libraries
 Maybe use Math or Numpy
 Link to the online docs here again
