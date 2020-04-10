@@ -8,7 +8,7 @@ if otherbool:
 else:
 	print("false")
 	
-value = 13
+value = int(input("enter a number: "))
 if value < 5:
 	print("small number")
 elif value < 20:

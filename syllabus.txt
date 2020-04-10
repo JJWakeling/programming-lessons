@@ -25,10 +25,12 @@ Try out operators from last exercise and some more in the interpreter
 * If, elif and else
 * Input function
 https://docs.python.org/3/library/functions.html#input
+* Casting
+useful for getting numbers out of that input function you just learned
 * While loop
 From this point on slow down and do more interesting examples 
 If student doesn't have ideas of their own, look in your own backlog of mini projects
-TODO: rearrange syllabus so you put off explaining all but absooutely essential technical details until this point
+TODO: rearrange syllabus so you put off explaining all but absolutely essential technical details until this point
 * Defining and using Functions
 As an exercise, go back over past examples and exercises and move duplicated code to functions
 * Complex data types(lists, arrays, tuples, dictionaries, sets)

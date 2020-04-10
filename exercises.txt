@@ -2,3 +2,8 @@
 2. Variables - ditto, but using a variable
 3. Types - no exercises
 4. Operators - do a calculation; try combining different types and see how it breaks
+5. If, elif and else - write a program that asks for a name, and does different things depending on the name
+   e.g. Rachel -> "please come in", Joe -> "please wait in line", else -> "Go away!"
+6. I'm thinking of a number - program generates an integer between 1 and 100 inclusive, lets player keep guessing until they get it right
+7. Fizzbuzz - write every number from 1 to 100, but with multiples of 3 replaced with "Fizz", multiples of 5 replaced with "Buzz" and multiples of both with "Fizzbuzz"
+   Harder variant - make it so that the rules also apply to numbers with 3 or 5 in them

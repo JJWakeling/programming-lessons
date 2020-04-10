@@ -1,2 +1,18 @@
-Redo everything we did last time, but in the interpreter
-print, Arithmetic, string concatenation, if and input
+First, download Notepad++
+
+* Using the interpreter:
+Meanwhile, redo everything we did last time, but in the interpreter:
+	   print, Arithmetic, string concatenation, if, input and comments(just to remind that they exist)
+
+* If, elif and else:
+Show example "if.py" and try Exercise 5
+     N.b. this example also introduces casting
+
+* While
+Show example "while.py"
+If student has nothing they desperately want to try, briefly introduce imports and show demo "random.py"
+   N.b. now that you're importing stuff, you can only run stuff by creating empty __init__.py file in the directory, navigating to the parent directory and running "python -m Examples.random"
+   I have no idea why python works this way
+
+Now you can try Exercises 6, 7
+could look at project Euler too, but those problems are quite mathematical, and get tricky really fast
