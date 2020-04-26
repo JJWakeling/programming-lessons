@@ -25,6 +25,8 @@ Try out operators from last exercise and some more in the interpreter
 * If, elif and else
 * Input function
 https://docs.python.org/3/library/functions.html#input
+* Casting
+useful for getting numbers out of that input function you just learned
 * While loop
 From this point on slow down and do more interesting examples 
 If student doesn't have ideas of their own, look in your own backlog of mini projects
